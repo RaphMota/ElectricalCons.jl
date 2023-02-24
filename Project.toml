@@ -1,0 +1,13 @@
+name = "ElectricalCons"
+uuid = "85d48ca4-fcc7-4396-90db-328af64aa6e3"
+authors = ["Raphaël Mota"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
